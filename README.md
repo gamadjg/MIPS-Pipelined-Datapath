@@ -24,8 +24,7 @@ Control + General TT			0: Use source from Register File          1: Use Sign Ext
 |jmp | 0001 | N/A  | 0 | 0 | 11 | 00 | 00 | 00 | 0 | 0 | 1 | 00 |
 |halt| 0000 | N/A  | 0 | 0 | 00 | 00 | 00 | 00 | 0 | 0 | 0 | 00 |
 
-| Tables| Are| Cool  |
-|sdfsdf|sdf|ddddd|
+| Tables| Are| Cool|
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
